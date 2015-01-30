@@ -1,0 +1,5 @@
+display_name = "GameBoy"
+core_name = "gambatte_libretro.so"
+icon_name = "gb-pad.png"
+content_icon_name = "gb-cartridge.png"
+content_subdirectory = "gb"

@@ -1,0 +1,5 @@
+display_name = "Mega Drive"
+core_name = "genesis_plus_gx_libretro.so"
+icon_name = "smd-pad.png"
+content_icon_name = "smd-cartridge.png"
+content_subdirectory = "smd"

@@ -1,0 +1,5 @@
+display_name = "Sega CD"
+core_name = "genesis_plus_gx_libretro.so"
+icon_name = "smd-pad.png"
+content_icon_name = "cd.png"
+content_subdirectory = "scd"

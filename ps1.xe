@@ -1,0 +1,5 @@
+display_name = "PlayStation"
+core_name = "mednafen_psx_libretro.so"
+icon_name = "ps1-pad.png"
+content_icon_name = "cd.png"
+content_subdirectory = "ps1"

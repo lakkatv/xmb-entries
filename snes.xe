@@ -1,0 +1,5 @@
+display_name = "Super Nintendo Entertainment System"
+core_name = "snes9x_next_libretro.so"
+icon_name = "snes-pad.png"
+content_icon_name = "snes-cartridge.png"
+content_subdirectory = "snes"

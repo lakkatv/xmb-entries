@@ -1,0 +1,5 @@
+display_name = "Master System"
+core_name = "genesis_plus_gx_libretro.so"
+icon_name = "sms-pad.png"
+content_icon_name = "sms-cartridge.png"
+content_subdirectory = "sms"

@@ -1,0 +1,5 @@
+display_name = "Nintendo Entertainment System"
+core_name = "fceumm_libretro.so"
+icon_name = "nes-pad.png"
+content_icon_name = "nes-cartridge.png"
+content_subdirectory = "nes"
